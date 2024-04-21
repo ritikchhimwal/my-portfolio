@@ -36,7 +36,7 @@ const Home = () => {
           animate='show' 
           exit='hidden'
           className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'>
-            As a dedicated frontend developer with a keen interest in backend technologies, I thrive at the intersection of creativity and functionality. With a heart for crafting intuitive, visually stunning user experiences, I've made it my mission to bring the digital world to life, one line of code at a time.
+            As a dedicated frontend developer with a keen interest in backend technologies, I thrive at the intersection of creativity and functionality.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>
