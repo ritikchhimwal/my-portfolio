@@ -129,9 +129,7 @@ const About = () => {
             exit="hidden"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            As a dedicated frontend developer with a keen interest in backend
-            technologies, I thrive at the intersection of creativity and
-            functionality. With a heart for crafting intuitive, visually
+            With a heart for crafting intuitive, visually
             stunning user experiences, I've made it my mission to bring the
             digital world to life, one line of code at a time.
           </motion.p>
