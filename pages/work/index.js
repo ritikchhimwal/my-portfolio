@@ -31,7 +31,7 @@ const Work = () => {
             animate='show'
             exit='hidden'
             className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-            As a software developer i can bring several things such as front-end developing,back-end developing ,UI design and many more.
+           I've led projects where I designed and built everything from how it looks to how it works, making sure users have a smooth experience.
           </motion.p>
         </div>
         {/* slider */}
