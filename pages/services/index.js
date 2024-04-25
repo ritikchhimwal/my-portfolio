@@ -31,7 +31,7 @@ const Services = () => {
             animate='show'
             exit='hidden'
             className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-            As a software developer i can bring several things such as front-end developing,back-end developing ,UI design and many more.
+           As a software developer, I bring a versatile skill set to the table, encompassing front-end and back-end development, UI design, and more.
           </motion.p>
         </div>
         {/* slider */}
