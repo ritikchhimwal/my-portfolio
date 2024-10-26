@@ -5,6 +5,11 @@ const workSlider = {
       images: [
         {
           title: "title",
+          path: "/pr5.png",
+          link: "https://bookhiive.vercel.app/",
+        },
+        {
+          title: "title",
           path: "/pr1.png",
           link: "https://cryptowebapplication.netlify.app/",
         },
@@ -17,11 +22,6 @@ const workSlider = {
           title: "title",
           path: "/pr3.png",
           link: "https://bankresponsiveweb.netlify.app/",
-        },
-        {
-          title: "title",
-          path: "/pr4.png",
-          link: "https://quote-generatorwebapp.netlify.app/",
         },
       ],
     },
